@@ -1,9 +1,5 @@
 # meu-projeto_backend
-Claro. Organizei as informações das imagens em um `README.md`, mantendo o conteúdo em uma sequência lógica e incluindo **“Desenvolvido por Arthur Sudário Bonatto Reis”**.
-
 # Backend com Express e TypeScript
-
-**Desenvolvido por Arthur Sudário Bonatto Reis**
 
 Este projeto apresenta a configuração de um ambiente backend utilizando **Node.js, TypeScript e Express**, desde a preparação do ambiente até a execução de um servidor web.
 
